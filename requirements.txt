@@ -1,0 +1,10 @@
+pandas
+numpy
+sqlalchemy==2.0.30
+psycopg2-binary
+jupyter
+jupyterthemes
+pymysql
+plotnine
+pandoc
+setuptools
